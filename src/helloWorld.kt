@@ -20,4 +20,14 @@ fun main(args: Array<String>) {
      */
 
     println("Hello, World!");
+
+    /* 定义变量 */
+    //定义变量时指定类型和初始值
+    var str : String = "我是字符串类型" ;
+    println("1")
+    println(str);
+    //定义变量时指定初始值
+    var str2 = "我时字符串2" ;
+    println("2")
+    println(str2);
 }
